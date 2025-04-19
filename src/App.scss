@@ -1,0 +1,242 @@
+@font-face {
+  font-family: Merriweather;
+  src: url(../src/fonts/Merriweather-VariableFont_opsz\wdth\wght.ttf);
+}
+.container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  //   gap: 25px;
+  align-items: center;
+  .logo-wrapper {
+    margin-top: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border: none;
+  }
+  .logo {
+    width: 100px;
+    border-radius: 50%;
+    border: none;
+  }
+  h1 {
+    margin-top: 15px;
+    color: #313233;
+    font-size: 28px;
+  }
+  h6 {
+    text-align: center;
+    margin-top: 7px;
+    font-family: Merriweather, sans-serif;
+    color: #313233;
+    font-size: 20px;
+    font-weight: 100;
+    @media screen and (max-width: 500px) {
+      font-size: 14px;
+    }
+  }
+  ul {
+    width: 100%;
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    a:nth-child(2) {
+      li {
+        background-color: #fcc419;
+        color: black;
+      }
+    }
+    a:nth-child(3) {
+      li {
+        background-color: #7048e8;
+        color: white;
+      }
+    }
+    a:nth-child(5) {
+      li {
+        background-color: #fcc419;
+        color: black;
+      }
+    }
+    a:nth-child(6) {
+      li {
+        background-color: #fff000;
+        color: black;
+      }
+    }
+    a:nth-child(7) {
+      li {
+        background-color: #e03131;
+        color: white;
+      }
+    }
+    a:nth-child(8) {
+      li {
+        background-color: #099268;
+        color: white;
+      }
+    }
+    a:nth-child(9) {
+      li {
+        background-color: #3bc9db;
+        color: white;
+      }
+    }
+    a:nth-child(11) {
+      li {
+        background-color: #9c36b5;
+        color: white;
+      }
+    }
+    a:nth-child(12) {
+      li {
+        background-color: #fcc419;
+        color: black;
+      }
+    }
+    a:nth-child(13) {
+      li {
+        background-color: #fcc419;
+        color: black;
+      }
+    }
+    a:nth-child(14) {
+      li {
+        background-color: #22b8cf;
+        color: white;
+      }
+    }
+    a:nth-child(16) {
+      li {
+        background-color: #4dabf7;
+        color: white;
+      }
+    }
+    a:nth-child(17) {
+      li {
+        background-color: #4dabf7;
+        color: white;
+      }
+    }
+    a:nth-child(18) {
+      li {
+        background-color: #f03e3e;
+        color: white;
+      }
+    }
+    a:nth-child(19) {
+      li {
+        background-color: #e64980;
+        color: white;
+      }
+    }
+    a:nth-child(20) {
+      margin-top: 20px;
+      li {
+        background-color: #4c6ef5;
+        color: white;
+      }
+    }
+    a {
+      @media screen and (max-width: 792px) {
+        display: flex;
+        width: 100%;
+        align-items: center;
+      }
+    }
+    li {
+      width: 792px;
+      height: 62px;
+      padding: 4px 8px;
+      background-color: #6741d9;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      gap: 5px;
+      position: relative;
+      transition: 0.3s;
+      @media screen and (max-width: 792px) {
+        width: 100%;
+      }
+      &:hover {
+        opacity: 0.9;
+      }
+      svg {
+        position: absolute;
+        color: white;
+        width: 42px;
+        height: 42px;
+        left: 10px;
+      }
+      .title {
+        font-family: sans-serif;
+        text-transform: uppercase;
+        font-size: 16px;
+      }
+      .text {
+        font-size: 14px;
+        font-family: sans-serif;
+        opacity: 0.8;
+      }
+      .my-icon path {
+        fill: white;
+      }
+    }
+    .line {
+      margin: 10px 0;
+      width: 170px;
+    }
+    span {
+      display: flex;
+      gap: 25px;
+      height: 35px;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      .box {
+        width: 10px;
+        height: 10px;
+        border: 2px solid #313233;
+        border-left: none;
+        border-top: none;
+        transform: translateY(-3px) rotate(45deg);
+        opacity: 0.9;
+      }
+      .line1 {
+        width: 120px;
+        height: 1.5px;
+        background: linear-gradient(
+          to left,
+          #313233 0%,
+          rgba(255, 255, 255, 0) 100%
+        );
+        opacity: 0.5;
+      }
+      .line2 {
+        width: 120px;
+        height: 1.5px;
+        background: linear-gradient(
+          to right,
+          #313233 0,
+          rgba(255, 255, 255, 0) 100%
+        );
+        opacity: 0.5;
+      }
+    }
+  }
+  .end-text {
+    font-size: 14px;
+    opacity: 0.8;
+    margin: 18px 0 50px 0;
+  }
+}

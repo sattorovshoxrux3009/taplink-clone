@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Satoshi;
+  src: url(../src/fonts/RussoOne-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+html {
+  font-family: Satoshi, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #f5f5f5;
+}
+.container {
+  max-width: 1540px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
