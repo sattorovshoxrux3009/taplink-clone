@@ -8,8 +8,8 @@ function App() {
         <div className="logo-wrapper">
           <img className="logo" src={logo} alt="" />
         </div>
-        <h1>Promokod.uz</h1>
-        <h6>Doimiy Yangi Promokodlar va Chegirmalar bizda!</h6>
+        <h1>Bonuslar.uz</h1>
+        <h6>Doimiy Yangi Promokodlar va Bonuslar bizda!</h6>
         <ul>
           <a href="https://t.me/yandeks_telegram/76" target="_blank">
             <li>
