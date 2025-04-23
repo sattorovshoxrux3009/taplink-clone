@@ -372,6 +372,7 @@ function App() {
           </a>
         </ul>
         <p className="end-text">+998 (90) 783-83-00</p>
+        <p className="copyright">Created by <a href="https://t.me/sattorov_shoxrux" target="_blank">Sattorov Shohruh</a></p>
       </div>
     </>
   );
