@@ -51,7 +51,7 @@ function App() {
                 <circle cx="15.5" cy="9.5" r=".5"></circle>
               </svg>
               <h2 className="title">Yandex market</h2>
-              <p className="text">Promokod - </p>
+              <p className="text">Promokod - APN3Z3IMIK-AF</p>
             </li>
           </a>{" "}
           <hr className="line" />
