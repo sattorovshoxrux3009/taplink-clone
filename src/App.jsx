@@ -112,7 +112,7 @@ function App() {
                 <path d="M6 9h3"></path>
               </svg>
               <h2 className="title">Express 24</h2>
-              <p className="text">Promokod - EKE9S</p>
+              <p className="text">Promokod - STPL4</p>
             </li>
           </a>{" "}
           <a href="https://t.me/yandeks_telegram/302" target="_blank">
