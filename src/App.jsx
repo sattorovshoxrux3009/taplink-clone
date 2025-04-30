@@ -31,7 +31,7 @@ function App() {
               <p className="text">Vaqtinchalik pauza!</p>
             </li>
           </a>
-          <a href="https://t.me/yandeks_telegram/298" target="_blank">
+          <a href="https://t.me/yandeks_telegram/319" target="_blank">
             <li>
               <svg
                 role="none"
@@ -95,7 +95,7 @@ function App() {
               <p className="text">Promokod - UKMKH</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/301" target="_blank">
+          <a href="https://t.me/yandeks_telegram/320" target="_blank">
             <li>
               <svg
                 role="none"
@@ -172,7 +172,7 @@ function App() {
                 <path d="M6 9h3"></path>
               </svg>
               <h2 className="title">Wolt</h2>
-              <p className="text">Tez orada!</p>
+              <p className="text">Promokod - FSZ39KA</p>
             </li>
           </a>{" "}
           <hr className="line" />
@@ -212,7 +212,7 @@ function App() {
               <h2 className="title">Yandex plus</h2>
               <p className="text">Promokod - 2UE8DDBES8</p>
             </li>
-          </a>{" "}
+          </a>
           <a href="https://t.me/yandeks_telegram/307" target="_blank">
             <li>
               <svg
@@ -272,7 +272,41 @@ function App() {
               <h2 className="title">Yandex lavka</h2>
               <p className="text">Tez orada!</p>
             </li>
-          </a>{" "}
+          </a>
+          <a href="https://t.me/yandeks_telegram/309" target="_blank">
+            <li>
+              <svg
+                role="none"
+                data-mode="stroke"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                stroke="#fff"
+                fill="none"
+              >
+                <rect
+                  x="4"
+                  y="13"
+                  rx="2"
+                  width="4"
+                  height="6"
+                  viewBox="0 0 4 6"
+                ></rect>
+                <rect
+                  x="16"
+                  y="13"
+                  rx="2"
+                  width="4"
+                  height="6"
+                  viewBox="0 0 4 6"
+                ></rect>
+                <path d="M4 15v-3a8 8 0 0 1 16 0v3m-2 4a6 3 0 0 1-6 3"></path>
+              </svg>
+              <h2 className="title">Jet</h2>
+              <p className="text">Promokod - MZLKUT</p>
+            </li>
+          </a>
           <span>
             <div className="line1"></div>
             <div className="box"></div>
@@ -372,7 +406,12 @@ function App() {
           </a>
         </ul>
         <p className="end-text">+998 (90) 783-83-00</p>
-        <p className="copyright">Created by <a href="https://t.me/sattorov_shoxrux" target="_blank">Sattorov Shohruh</a></p>
+          {/* <p className="copyright">
+            Created by{" "}
+            <a href="https://t.me/sattorov_shoxrux" target="_blank">
+              Sattorov Shohruh
+            </a>
+          </p> */}
       </div>
     </>
   );
