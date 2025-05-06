@@ -307,6 +307,26 @@ function App() {
               <p className="text">Promokod - MZLKUT</p>
             </li>
           </a>
+          <a href="https://t.me/yandeks_telegram/325" target="_blank">
+            <li>
+              <svg
+                role="none"
+                data-mode="stroke"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                stroke="#fff"
+                fill="none"
+              >
+                <circle cx="7" cy="17" r="2"></circle>
+                <circle cx="17" cy="17" r="2"></circle>
+                <path d="M5 17H3V6a1 1 0 0 1 1-1h9v12m-4 0h6m4 0h2v-6h-8m0-5h5l3 5"></path>
+              </svg>
+              <h2 className="title">Apex Pizza</h2>
+              <p className="text">Promokod - CHEGIRMA30</p>
+            </li>
+          </a>
           <span>
             <div className="line1"></div>
             <div className="box"></div>
@@ -406,7 +426,7 @@ function App() {
           </a>
         </ul>
         <p className="end-text">+998 (90) 783-83-00</p>
-          {/* <p className="copyright">
+        {/* <p className="copyright">
             Created by{" "}
             <a href="https://t.me/sattorov_shoxrux" target="_blank">
               Sattorov Shohruh

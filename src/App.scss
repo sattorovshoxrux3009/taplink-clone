@@ -119,9 +119,9 @@
         color: white;
       }
     }
-    a:nth-child(17) {
+    a:nth-child(16) {
       li {
-        background-color: #4dabf7;
+        background-color: red;
         color: white;
       }
     }
@@ -133,17 +133,23 @@
     }
     a:nth-child(19) {
       li {
-        background-color: #f03e3e;
+        background-color: #4dabf7;
         color: white;
       }
     }
     a:nth-child(20) {
       li {
-        background-color: #e64980;
+        background-color: #f03e3e;
         color: white;
       }
     }
     a:nth-child(21) {
+      li {
+        background-color: #e64980;
+        color: white;
+      }
+    }
+    a:nth-child(22) {
       margin-top: 20px;
       li {
         background-color: #4c6ef5;
@@ -245,7 +251,7 @@
     font-size: 14px;
     opacity: 0.8;
   }
-  .copyright{
+  .copyright {
     font-size: 14px;
     opacity: 0.8;
     margin: 0px 0 50px 0;
