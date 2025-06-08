@@ -11,7 +11,7 @@ function App() {
         <h1>Bonuslar.uz</h1>
         <h6>Doimiy Yangi Promokodlar va Bonuslar bizda!</h6>
         <ul>
-          <a href="https://t.me/yandeks_telegram/76" target="_blank">
+          <a href="https://t.me/yandeks_telegram/352" target="_blank">
             <li>
               <svg
                 role="none"
@@ -27,11 +27,11 @@ function App() {
                 <circle cx="17" cy="17" r="2"></circle>
                 <path d="M5 17H3V6a1 1 0 0 1 1-1h9v6H8l2 2m0-4l-2 2m1 6h6M13 6h5l3 5v6h-2"></path>
               </svg>
-              <h2 className="title">Uzum market</h2>
-              <p className="text">Vaqtinchalik pauza!</p>
+              <h2 className="title">Yandex market go</h2>
+              <p className="text">Promokod - UMURU</p>
             </li>
           </a>
-          <a href="https://t.me/yandeks_telegram/319" target="_blank">
+          <a href="https://t.me/yandeks_telegram/352" target="_blank">
             <li>
               <svg
                 role="none"
@@ -51,11 +51,11 @@ function App() {
                 <circle cx="15.5" cy="9.5" r=".5"></circle>
               </svg>
               <h2 className="title">Yandex market</h2>
-              <p className="text">Promokod - APN3Z3IMIK-AF</p>
+              <p className="text">Promokod - BARAKA60</p>
             </li>
           </a>{" "}
           <hr className="line" />
-          <a href="https://t.me/yandeks_telegram/299" target="_blank">
+          <a href="https://t.me/yandeks_telegram/346" target="_blank">
             <li>
               <svg
                 role="none"
@@ -75,7 +75,7 @@ function App() {
               <p className="text">Promokod - YXLTD</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/300" target="_blank">
+          <a href="https://t.me/yandeks_telegram/351" target="_blank">
             <li>
               <svg
                 role="none"
@@ -95,7 +95,7 @@ function App() {
               <p className="text">Promokod - UKMKH</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/320" target="_blank">
+          <a href="https://t.me/yandeks_telegram/350" target="_blank">
             <li>
               <svg
                 role="none"
@@ -115,7 +115,7 @@ function App() {
               <p className="text">Promokod - STPL4</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/302" target="_blank">
+          <a href="https://t.me/yandeks_telegram/355" target="_blank">
             <li>
               <svg
                 role="none"
@@ -135,7 +135,7 @@ function App() {
               <p className="text">Promokod - CHEGIRMA30</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/310" target="_blank">
+          <a href="https://t.me/yandeks_telegram/354" target="_blank">
             <li>
               <svg
                 role="none"
@@ -176,10 +176,7 @@ function App() {
             </li>
           </a>{" "}
           <hr className="line" />
-          <a
-            href="https://ypls-eats.prfl.me/promokod.chegirmalar/ki8oby"
-            target="_blank"
-          >
+          <a href="https://t.me/yandeks_telegram/356" target="_blank">
             <li>
               <svg
                 role="none"
@@ -210,7 +207,7 @@ function App() {
                 <path d="M4 15v-3a8 8 0 0 1 16 0v3m-2 4a6 3 0 0 1-6 3"></path>
               </svg>
               <h2 className="title">Yandex plus</h2>
-              <p className="text">Promokod - 2UE8DDBES8</p>
+              <p className="text">Promokod - 4H9G23VCLP</p>
             </li>
           </a>
           <a href="https://t.me/yandeks_telegram/307" target="_blank">
@@ -233,7 +230,7 @@ function App() {
               <p className="text">Tez orada!</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/305" target="_blank">
+          <a href="https://t.me/yandeks_telegram/352" target="_blank">
             <li>
               <svg
                 role="none"
@@ -250,10 +247,10 @@ function App() {
                 <path d="M5 17H3V6a1 1 0 0 1 1-1h9v12m-4 0h6m4 0h2v-6h-8m0-5h5l3 5"></path>
               </svg>
               <h2 className="title">Yandex magazin</h2>
-              <p className="text">Promokod - UKJH3</p>
+              <p className="text">Promokod - AN8QZGSXGV-AF</p>
             </li>
           </a>{" "}
-          <a href="https://t.me/yandeks_telegram/306" target="_blank">
+          <a href="https://t.me/yandeks_telegram/353" target="_blank">
             <li>
               <svg
                 role="none"
@@ -270,7 +267,7 @@ function App() {
                 <path d="M6 9h3"></path>
               </svg>
               <h2 className="title">Yandex lavka</h2>
-              <p className="text">Tez orada!</p>
+              <p className="text">Promokod - TOSHKENT51</p>
             </li>
           </a>
           <a href="https://t.me/yandeks_telegram/309" target="_blank">
